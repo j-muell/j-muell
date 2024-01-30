@@ -4,7 +4,8 @@ Hey there,
     I'm currently a student at Algonquin College in Ottawa for Computer Programming.
     
     I'm working on:
-      
+    Personal Portfolio
+    Cubing Timer
       
   Reach out to me at: 
     jasonmueller.business@gmail.com
