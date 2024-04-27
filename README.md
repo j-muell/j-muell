@@ -104,7 +104,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="novelSMS.png"  />
+  <img height="480" src="novelsmsscript.jpg"  />
 </div>
 
 ###
