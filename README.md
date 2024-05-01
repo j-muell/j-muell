@@ -79,7 +79,7 @@
 
 ###
 
-<p align="left"><strong> - Game Quest</strong><br>A game recommendation application built to connect with your steam account to provide you with sufficient response based on your recent activity.</p>
+<p align="left"><strong> - <a href="https://github.com/j-muell/game-recommendation-app" target="_blank">Game Quest </a></strong><br>A game recommendation application built to connect with your steam account to provide you with sufficient response based on your recent activity.</p>
 
 ###
 
