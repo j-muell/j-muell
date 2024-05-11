@@ -89,22 +89,32 @@
 
 ###
 
+<p align="left"><strong> - <a href="https://github.com/j-muell/laravel-movie-app" target="_blank">MoiveApps Website </a></strong><br>Written using Laravel and the MVC architecture format, this application showcases popular & upcoming movies, actors, TV Shows, and more.</p>
+
+###
+
+<div align="center">
+  <img height="480" src="novelsmsscript.jpg"  />
+</div>
+
+###
+
+<p align="left"><strong> - <a href="https://github.com/j-muell/chapter-updates-sms" target="_blank">Novel SMS Script </a></strong><br>Written in Python, this small script is designed to work with webnovelworld in order to send users sms messages upon the release of new chapters of their favourite novels.</p>
+
+###
+
+<div align="center">
+  <img height="480" src="novelsmsscript.jpg"  />
+</div>
+
+###
+
 <p align="left"><strong> - Steam API</strong><br>A Steam API wrapper built in PHP. Forked from [github profile], it is heavily modified and updated for use in 2024, allowing for consistent and expected results.</p>
 
 ###
 
 <div align="center">
   <img height="400" src="SteamAPI.png"  />
-</div>
-
-###
-
-<p align="left"><strong> - Novel SMS Script </strong><br>Written in Python, this small script is designed to work with webnovelworld in order to send users sms messages upon the release of new chapters of their favourite novels.</p>
-
-###
-
-<div align="center">
-  <img height="480" src="novelsmsscript.jpg"  />
 </div>
 
 ###
