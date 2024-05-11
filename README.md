@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-  <img height="480" src="novelsmsscript.jpg"  />
+  <img height="480" src="MovieAppMain.png"  />
 </div>
 
 ###
